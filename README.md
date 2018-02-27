@@ -25,6 +25,10 @@ Tuy nhiên Laravel 5.5 cũng hỗ trợ slug tương đối tốt nên tự vi�
 9. [Agent](https://github.com/jenssegers/agent)
 Để check browser/mobile dùng là gì
 
+## Tips
+
+1. Dùng nl2br() để hiện các HTML tag đối với textarea (newline, tab, etc). Muốn hiện các tag này khi display thì dùng {!! !!} thay vì {{ }}
+
 ## Các Tutorials
 
 1. Xét most popuplar dựa trên Google Analytics: [https://laravel-news.com/most-popular-list-laravel-google-analytics](https://laravel-news.com/most-popular-list-laravel-google-analytics)
