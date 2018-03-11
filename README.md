@@ -32,3 +32,8 @@ Tuy nhiên Laravel 5.5 cũng hỗ trợ slug tương đối tốt nên tự vi�
 ## Các Tutorials
 
 1. Xét most popuplar dựa trên Google Analytics: [https://laravel-news.com/most-popular-list-laravel-google-analytics](https://laravel-news.com/most-popular-list-laravel-google-analytics)
+
+## Các packages cho IDE
+### VSCode
+
+1. [https://medium.com/@beeblebrox3/my-visual-studio-code-setup-9b488a119e24](https://medium.com/@beeblebrox3/my-visual-studio-code-setup-9b488a119e24)
